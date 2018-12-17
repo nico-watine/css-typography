@@ -11483,6 +11483,19 @@
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
+		},
+	"/scss/vendor/_normalize-8.0.1.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_normalize-8.0.1.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		}
 	},
 "hooks": [
