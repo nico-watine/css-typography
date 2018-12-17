@@ -23,6 +23,17 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/_ignores/codekit-icon.png": {
+		"ft": 32768,
+		"iS": 15179,
+		"oA": 1,
+		"oAP": "/_ignores/codekit-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_ignores/css-typography.sublime-project": {
 		"cB": 0,
 		"ft": 8192,
@@ -11547,8 +11558,8 @@
 	"creationDate": 566673974.90760005,
 	"displayValue": "css-typography",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "/bower_components/bootstrap/site/docs/4.1/assets/img/favicons/apple-touch-icon.png",
-	"iconImageWasSetByUser": 0
+	"iconImageName": "/_ignores/codekit-icon.png",
+	"iconImageWasSetByUser": 1
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -13534,22 +13545,22 @@
 	"languageDefaultsUserDefined": [
 		{
 			"autoOutputAction": 1,
-			"autoOutputPathFilenamePattern": "*.php",
-			"autoOutputPathRelativePath": "",
-			"autoOutputPathReplace1": "",
-			"autoOutputPathReplace2": "",
-			"autoOutputPathStyle": 0,
-			"fileExtension": "php",
-			"shouldRunCacheBuster": 0
-			},
-		{
-			"autoOutputAction": 1,
 			"autoOutputPathFilenamePattern": "*.html",
 			"autoOutputPathRelativePath": "",
 			"autoOutputPathReplace1": "",
 			"autoOutputPathReplace2": "",
 			"autoOutputPathStyle": 0,
 			"fileExtension": "html",
+			"shouldRunCacheBuster": 0
+			},
+		{
+			"autoOutputAction": 1,
+			"autoOutputPathFilenamePattern": "*.php",
+			"autoOutputPathRelativePath": "",
+			"autoOutputPathReplace1": "",
+			"autoOutputPathReplace2": "",
+			"autoOutputPathStyle": 0,
+			"fileExtension": "php",
 			"shouldRunCacheBuster": 0
 			}
 		],
