@@ -11484,6 +11484,19 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"/scss/vendor/_html5-reset.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/css/_html5-reset.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/vendor/_meyer-reset.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -13506,22 +13519,22 @@
 	"languageDefaultsUserDefined": [
 		{
 			"autoOutputAction": 1,
-			"autoOutputPathFilenamePattern": "*.html",
-			"autoOutputPathRelativePath": "",
-			"autoOutputPathReplace1": "",
-			"autoOutputPathReplace2": "",
-			"autoOutputPathStyle": 0,
-			"fileExtension": "html",
-			"shouldRunCacheBuster": 0
-			},
-		{
-			"autoOutputAction": 1,
 			"autoOutputPathFilenamePattern": "*.php",
 			"autoOutputPathRelativePath": "",
 			"autoOutputPathReplace1": "",
 			"autoOutputPathReplace2": "",
 			"autoOutputPathStyle": 0,
 			"fileExtension": "php",
+			"shouldRunCacheBuster": 0
+			},
+		{
+			"autoOutputAction": 1,
+			"autoOutputPathFilenamePattern": "*.html",
+			"autoOutputPathRelativePath": "",
+			"autoOutputPathReplace1": "",
+			"autoOutputPathReplace2": "",
+			"autoOutputPathStyle": 0,
+			"fileExtension": "html",
 			"shouldRunCacheBuster": 0
 			}
 		],
