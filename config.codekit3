@@ -11492,7 +11492,7 @@
 		"uL": 1
 		},
 	"/scss/style.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -11501,7 +11501,7 @@
 		"oA": 0,
 		"oAP": "/css/style.css",
 		"oF": 0,
-		"oS": 1,
+		"oS": 0,
 		"uL": 1
 		},
 	"/scss/vendor/_bootstrap-reboot-4.1.3.scss": {
